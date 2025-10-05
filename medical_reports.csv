@@ -1,0 +1,101 @@
+ReportID,PatientID,TestType,ResultValue,Doctor,ReportDate
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27
+2,5,ECG,20.95,Dr. Smith,2025-06-01
+3,14,Blood Test,6.44,Dr. Johnson,2025-03-01
+4,17,Ultrasound,5.79,Dr. Johnson,2025-06-16
+5,18,CT Scan,44.48,Dr. Lee,2025-01-02
+6,6,ECG,84.81,Dr. Lee,2025-02-09
+7,7,Urine Test,67.65,Dr. Smith,2025-04-08
+8,4,MRI,169.58,Dr. Lee,2025-01-12
+9,15,Ultrasound,25.4,Dr. Patel,2025-01-21
+10,18,MRI,165.97,Dr. Lee,2025-05-28
+11,7,ECG,14.38,Dr. Johnson,2025-03-16
+12,3,Urine Test,46.94,Dr. Smith,2025-04-08
+13,9,CT Scan,127.32,Dr. Lee,2025-02-11
+14,12,MRI,42.3,Dr. Lee,2025-06-29
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11
+16,15,CT Scan,54.35,Dr. Johnson,2025-06-25
+17,11,Urine Test,153.78,Dr. Smith,2025-02-28
+18,2,Urine Test,63.43,Dr. Lee,2025-01-17
+19,7,Ultrasound,175.34,Dr. Lee,2025-02-24
+20,16,CT Scan,176.99,Dr. Patel,2025-02-06
+21,9,X-Ray,49.7,Dr. Lee,2025-05-30
+22,14,Ultrasound,80.18,Dr. Johnson,2025-02-05
+23,17,CT Scan,18.64,Dr. Smith,2025-01-29
+24,5,ECG,32.42,Dr. Patel,2025-06-02
+25,3,CT Scan,76.63,Dr. Patel,2025-05-16
+26,9,Ultrasound,172.23,Dr. Smith,2025-06-24
+27,4,ECG,177.02,Dr. Lee,2025-06-14
+28,11,Blood Test,59.05,Dr. Johnson,2025-04-27
+29,1,ECG,175.23,Dr. Lee,2025-05-09
+30,6,Ultrasound,182.57,Dr. Lee,2025-06-13
+31,17,Ultrasound,40.18,Dr. Lee,2025-02-11
+32,18,Urine Test,184.53,Dr. Smith,2025-06-03
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20
+34,8,Blood Test,48.55,Dr. Smith,2025-01-22
+35,16,Urine Test,14.31,Dr. Johnson,2025-02-02
+36,16,Ultrasound,33.44,Dr. Patel,2025-02-24
+37,18,Urine Test,146.12,Dr. Johnson,2025-03-21
+38,13,ECG,130.15,Dr. Patel,2025-05-13
+39,15,Blood Test,49.96,Dr. Smith,2025-03-28
+40,1,Ultrasound,111.01,Dr. Johnson,2025-01-02
+41,3,ECG,126.41,Dr. Johnson,2025-01-18
+42,2,Urine Test,66.42,Dr. Johnson,2025-03-13
+43,16,X-Ray,108.08,Dr. Patel,2025-03-04
+44,16,Urine Test,81.71,Dr. Smith,2025-01-25
+45,14,MRI,85.0,Dr. Patel,2025-01-14
+46,4,Blood Test,80.82,Dr. Lee,2025-01-28
+47,8,X-Ray,38.45,Dr. Patel,2025-02-05
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20
+49,15,Urine Test,172.34,Dr. Smith,2025-01-13
+50,18,Urine Test,3.44,Dr. Smith,2025-03-02
+51,6,CT Scan,97.39,Dr. Johnson,2025-04-13
+52,2,X-Ray,76.11,Dr. Patel,2025-03-09
+53,15,MRI,84.89,Dr. Patel,2025-02-09
+54,7,MRI,43.93,Dr. Smith,2025-05-29
+55,18,Blood Test,149.72,Dr. Smith,2025-01-13
+56,19,CT Scan,100.82,Dr. Johnson,2025-01-15
+57,17,Blood Test,170.34,Dr. Smith,2025-06-02
+58,3,ECG,172.43,Dr. Patel,2025-01-31
+59,19,X-Ray,115.99,Dr. Smith,2025-06-08
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08
+61,7,ECG,143.38,Dr. Johnson,2025-03-09
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28
+63,11,Urine Test,187.18,Dr. Smith,2025-04-28
+64,20,Ultrasound,199.22,Dr. Smith,2025-05-18
+65,7,Ultrasound,53.41,Dr. Lee,2025-01-18
+66,8,MRI,57.35,Dr. Patel,2025-05-20
+67,10,Ultrasound,196.78,Dr. Smith,2025-06-20
+68,18,MRI,186.39,Dr. Smith,2025-02-04
+69,9,Blood Test,178.0,Dr. Johnson,2025-03-11
+70,10,Ultrasound,42.52,Dr. Lee,2025-02-22
+71,9,Ultrasound,97.96,Dr. Smith,2025-01-24
+72,14,Urine Test,55.7,Dr. Smith,2025-03-27
+73,5,ECG,195.97,Dr. Johnson,2025-04-24
+74,18,ECG,85.82,Dr. Smith,2025-01-29
+75,3,ECG,180.83,Dr. Smith,2025-04-05
+76,19,Ultrasound,30.04,Dr. Johnson,2025-01-11
+77,10,MRI,179.85,Dr. Smith,2025-04-02
+78,7,ECG,50.28,Dr. Smith,2025-04-01
+79,18,Urine Test,81.57,Dr. Johnson,2025-03-02
+80,6,Urine Test,162.25,Dr. Patel,2025-01-07
+81,6,ECG,184.94,Dr. Patel,2025-06-21
+82,8,MRI,32.26,Dr. Smith,2025-04-08
+83,2,Urine Test,94.4,Dr. Johnson,2025-04-28
+84,12,MRI,164.2,Dr. Johnson,2025-02-27
+85,1,ECG,39.03,Dr. Lee,2025-03-13
+86,3,Urine Test,56.19,Dr. Patel,2025-06-23
+87,18,MRI,187.88,Dr. Smith,2025-03-08
+88,6,Ultrasound,192.53,Dr. Lee,2025-01-10
+89,4,Ultrasound,87.2,Dr. Lee,2025-04-22
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07
+91,2,ECG,87.49,Dr. Johnson,2025-04-04
+92,14,Blood Test,189.8,Dr. Lee,2025-06-09
+93,11,ECG,169.68,Dr. Lee,2025-05-10
+94,10,ECG,81.97,Dr. Patel,2025-06-28
+95,10,Ultrasound,25.89,Dr. Patel,2025-06-20
+96,13,ECG,149.75,Dr. Johnson,2025-06-07
+97,19,MRI,81.51,Dr. Smith,2025-03-19
+98,10,X-Ray,86.26,Dr. Lee,2025-04-30
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13
+100,3,MRI,103.33,Dr. Lee,2025-01-24
